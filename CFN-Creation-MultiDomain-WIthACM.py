@@ -1,3 +1,7 @@
+#@author: Giten Mitra
+#Date: 21 May 2021
+#Description: This script will create and make an entry in CloudFront distrubution if you are running multiple website in single EC2
+
 import boto3
 import datetime
 from dateutil.parser import parse
