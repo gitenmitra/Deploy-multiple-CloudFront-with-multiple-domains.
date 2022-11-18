@@ -1,5 +1,5 @@
 #@author: Giten Mitra
-#Date: 21 May 2021
+#Date: 21 May 2022
 #Description: This script will create and make an entry in CloudFront distrubution if you are running multiple website in single EC2
 
 import boto3
