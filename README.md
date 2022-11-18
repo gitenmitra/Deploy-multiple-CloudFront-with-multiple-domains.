@@ -1,4 +1,4 @@
-# AWS-CloudFront<br><br>
+# Deploy multiple CloudFront for account with multiple domains.<br><br>
 
 <b>Problem:</b> Deploy multiple CloudFront for account with multiple domains.<br><br>
 <b>Functionality:</b> Running this script in loop and deploy CloudFront with all the domains provided.<br><br>
